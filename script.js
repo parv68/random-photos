@@ -13,4 +13,5 @@ function addNewImages(){
        )}`;
        imageContainerEl.appendChild(imageEl);
     }  
+    imageContainerEl.appendChild(btnEl);
 }
